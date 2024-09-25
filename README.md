@@ -1,8 +1,8 @@
 **ML Project: Ecommerce Customer**
 
-Objective of the project:
+**Objective of the project:**
 
-A company is trying to decide whether to focus their efforts on their mobile app experience or their website.
+An Ecommerce Company is trying to decide whether to focus their efforts on their mobile app experience or their website.
 We are here to help them make a data-driven decision
 
 The data includes information about customers of an e-commerce website, including the following:
