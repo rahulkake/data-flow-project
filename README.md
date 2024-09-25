@@ -21,6 +21,8 @@ The data includes information about customers of an e-commerce website, includin
 
     Yearly Amount Spent : Total Profit to company from each customer.
 
+Technique used : Linear Regression
+
 **Procedure to run**
 
 step1: import all requirements - refer requirements.txt
