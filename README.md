@@ -1,5 +1,5 @@
-**ML Project: Ecommerce Customers
-**
+**ML Project: Ecommerce Customer**
+
 Objective of the project:
 
 A company is trying to decide whether to focus their efforts on their mobile app experience or their website.
@@ -12,11 +12,10 @@ X-axis Data
     Time on App: Average time spent using mobile appin minutes
     Time on Website: Average time spent using web-browser in minutes
     Length of Membership: How many years the customer has been a member.
-
 Y-axis data
     Yearly Amount Spent : Total Profit to company from each customer.
 
-Procedure to run
+**Procedure to run**
 step1: import all requirements - refer requirements.txt
 
 step2: use prefect cloud login to access prefect cloud for monitoring the Data flow.
